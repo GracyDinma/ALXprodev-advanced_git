@@ -1,2 +1,2 @@
 feature coming soon
-"data reguirements: email, firstName, lastName, profilePic"
+["data reguirements: email, firstName, lastName, profilePic"]
